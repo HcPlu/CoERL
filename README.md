@@ -6,7 +6,7 @@ Please use this bibtex if you use this repository in your work:
 ````
 @inproceedings{hu2024coerl,
   title={Evolutionary Reinforcement Learning via Cooperative Coevolution},
-  author={Hu, Chengpeng and Liu, Jialing and Yao, Xin},
+  author={Hu, Chengpeng and Liu, Jialin and Yao, Xin},
   booktitle={27th European Conference on Artificial Intelligence},
   year={2024}
 }
